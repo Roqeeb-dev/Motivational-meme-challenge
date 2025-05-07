@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Regular Libre Baskerville";
+}
+.container {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+img {
+    width: 100%;
+    border: solid 10px white;
+}
